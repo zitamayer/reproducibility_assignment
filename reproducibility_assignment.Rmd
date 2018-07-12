@@ -17,4 +17,5 @@ knitr::opts_chunk$set(echo = TRUE)
 stroop_data <- read.csv("stroop.csv", sep = " ", header = TRUE)
 ```
 
+test
 
